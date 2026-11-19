@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 Проекты
+### Проекты
 
 | Проект | Что это | Стек |
 |---|---|---|
@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 Статистика
+### Статистика
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=folQdee&show_icons=true&hide_border=true&theme=tokyonight&locale=ru" alt="Статистика GitHub">
