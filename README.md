@@ -19,7 +19,7 @@
 
 ### 🚀 Проекты
 
-| Проект | Что делает | Стек |
+| Проект | Что это | Стек |
 |---|---|---|
 | [**Vacancy Search System**](https://github.com/folQdee/vacancy_search_system) | Четыре LLM-агента анализируют вакансии hh.ru и строят карьерный отчёт: навыки, зарплаты, план обучения | Python, OpenRouter, hh.ru API |
 | [**Платформа для звукорежиссёров**](https://github.com/folQdee/FastApiL-C) | Каталог специалистов, заказы, JWT-авторизация, роли и админка | FastAPI, SQLAlchemy, Jinja2 |
