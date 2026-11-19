@@ -23,7 +23,7 @@
 |---|---|---|
 | [**Vacancy Search System**](https://github.com/folQdee/vacancy_search_system) | Четыре LLM-агента анализируют вакансии hh.ru и строят карьерный отчёт: навыки, зарплаты, план обучения | Python, OpenRouter, hh.ru API |
 | [**Платформа для звукорежиссёров**](https://github.com/folQdee/FastApiL-C) | Каталог специалистов, заказы, JWT-авторизация, роли и админка | FastAPI, SQLAlchemy, Jinja2 |
-| [**Blackened Sound**](https://github.com/folQdee/template) · [демо](https://folqdee.github.io/template/) | Поиск музыки и топ метал-треков через Last.fm API | React, TypeScript |
+| [**Blackened Sound**](https://github.com/folQdee/blackened-sound) · [демо](https://folqdee.github.io/blackened-sound/) | Поиск музыки и топ метал-треков через Last.fm API | React, TypeScript |
 | [**Telegram-ассистент**](https://github.com/folQdee/assistant) | Бот расставляет приоритеты задачам через LLM и распознаёт объекты на фото | aiogram, YOLOv8, SQLite |
 | [**Polish Notation**](https://github.com/folQdee/polish-notation) | Калькулятор обратной польской записи с тестами и CI | Python, pytest, GitHub Actions |
 
